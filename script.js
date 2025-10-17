@@ -74,16 +74,16 @@ db.Data.aggregate([
   db.Data.aggregate([
     {
       $group: {
-        _id: "$nombre_Rector",
-        nombre_Rector: { $first: "$nombre_Rector" },
+        _id: "$especialidad",
+        especialidad: { $first: "$especialidad" },
         
       }
     },
     {
       $project: {
         _id: 0,
-        nombre_Rector: "$_id",
-        nombre_Rector: 1,
+        especialidad: "$_id",
+        especialidad: 1,
         
         
       }
@@ -91,6 +91,123 @@ db.Data.aggregate([
     {
       $merge: {
         into: "Especialidad",
+        whenMatched: "replace",
+        whenNotMatched: "insert"
+      }
+    }
+  ])
+
+  //Jornada
+
+    db.Data.aggregate([
+    {
+      $group: {
+        _id: "$jornadas",
+        jornadas: { $first: "$jornadas" },
+        
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        jornadas: "$_id",
+        jornadas: 1,
+        
+        
+      }
+    },
+    {
+      $merge: {
+        into: "Jornada",
+        whenMatched: "replace",
+        whenNotMatched: "insert"
+      }
+    }
+  ])
+
+  //nivelEducativo
+
+
+    db.Data.aggregate([
+    {
+      $group: {
+        _id: "$niveles",
+        niveles: { $first: "$niveles" },
+        grados: { $first: "$grados" },
+        
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        niveles: "$_id",
+        grados: 1,
+        
+        
+      }
+    },
+    {
+      $merge: {
+        into: "nivelEducativo",
+        whenMatched: "replace",
+        whenNotMatched: "insert"
+      }
+    }
+  ])
+
+  //TipoEstablecimiento
+
+      db.Data.aggregate([
+    {
+      $group: {
+        _id: "$tipo_Establecimiento",
+        tipo_Establecimiento: { $first: "$tipo_Establecimiento" }
+        
+        
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+       tipo_Establecimiento: "$_id",
+        tipo_Establecimiento: 1,
+        
+        
+      }
+    },
+    {
+      $merge: {
+        into: "TipoEstablecimiento",
+        whenMatched: "replace",
+        whenNotMatched: "insert"
+      }
+    }
+  ])
+
+  //zonas
+
+
+     db.Data.aggregate([
+    {
+      $group: {
+        _id: "$zona",
+        zona: { $first: "$zona" }
+        
+        
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+       zona: "$_id",
+        zona: 1,
+        
+        
+      }
+    },
+    {
+      $merge: {
+        into: "zona",
         whenMatched: "replace",
         whenNotMatched: "insert"
       }

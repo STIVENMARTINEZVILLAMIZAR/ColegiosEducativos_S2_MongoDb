@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68f1e15eb568a5d4fae080b8"
+  },
+  "zona": "RURAL"
+},
+{
+  "_id": {
+    "$oid": "68f1e15eb568a5d4fae080b9"
+  },
+  "zona": "RURAL,URBANA"
+},
+{
+  "_id": {
+    "$oid": "68f1e15eb568a5d4fae080ba"
+  },
+  "zona": "URBANA"
+}]

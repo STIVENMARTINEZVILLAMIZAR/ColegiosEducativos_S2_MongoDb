@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08089"
+  },
+  "grados": "1,2,4,5,6,7,8,9",
+  "niveles": "BÁSICA SECUNDARIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808a"
+  },
+  "grados": "-3,-2,-1,0,1,2,3,4,5,6,7,8,9,10,11",
+  "niveles": "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA,PRIMERA INFANCIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808b"
+  },
+  "grados": "-3,21,22,23,24,25,26,99",
+  "niveles": "MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA,PRIMERA INFANCIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808c"
+  },
+  "grados": "21,22,23,24,25,26",
+  "niveles": "MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808d"
+  },
+  "grados": "1,2,3,4,5",
+  "niveles": "BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808e"
+  },
+  "grados": "-2,-1,0,2,5,10",
+  "niveles": "PREESCOLAR,MEDIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0808f"
+  },
+  "grados": "10,11,23,24,25,26",
+  "niveles": "BÁSICA SECUNDARIA,MEDIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08090"
+  },
+  "grados": "-1,23,24,25,26",
+  "niveles": "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08091"
+  },
+  "grados": "-2,-1,0,1,2,3,4,5,6,7,8,9",
+  "niveles": "PREESCOLAR,BÁSICA SECUNDARIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08092"
+  },
+  "grados": "6,7,8,9,10,11",
+  "niveles": "MEDIA,BÁSICA SECUNDARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08093"
+  },
+  "grados": "-2,-1,0,11",
+  "niveles": "PREESCOLAR,MEDIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08094"
+  },
+  "grados": "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,99",
+  "niveles": "PREESCOLAR,BÁSICA SECUNDARIA,MEDIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08095"
+  },
+  "grados": "-2,-1,0,8",
+  "niveles": "PREESCOLAR,BÁSICA SECUNDARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08096"
+  },
+  "grados": -3,
+  "niveles": "PREESCOLAR"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08097"
+  },
+  "grados": "-2,-1,0,1,2,3,4,5,6,7,8,9,10,11,99",
+  "niveles": "PREESCOLAR,MEDIA,BÁSICA SECUNDARIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08098"
+  },
+  "grados": "10,11",
+  "niveles": "MEDIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae08099"
+  },
+  "grados": null,
+  "niveles": null
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0809a"
+  },
+  "grados": "10,11,21,22,23,24,25,26",
+  "niveles": "BÁSICA SECUNDARIA,MEDIA,BÁSICA PRIMARIA"
+},
+{
+  "_id": {
+    "$oid": "68f1e01fb568a5d4fae0809b"
+  },
+  "grados": "0,1,2,3,4,5",
+  "niveles": "PREESCOLAR,BÁSICA PRIMARIA"
+}]

@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08026"
+  },
+  "especialidad": "ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08027"
+  },
+  "especialidad": "INDUSTRIAL,COMERCIAL"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08028"
+  },
+  "especialidad": "COMERCIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08029"
+  },
+  "especialidad": "AGROPECUARIO,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802a"
+  },
+  "especialidad": "OTRO"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802b"
+  },
+  "especialidad": "PEDAGOGICO,OTRO,COMERCIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802c"
+  },
+  "especialidad": "INDUSTRIAL"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802d"
+  },
+  "especialidad": "PEDAGOGICO,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802e"
+  },
+  "especialidad": "OTRO,INDUSTRIAL,COMERCIAL"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0802f"
+  },
+  "especialidad": null
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08030"
+  },
+  "especialidad": "OTRO,COMERCIAL"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08031"
+  },
+  "especialidad": "NO APLICA,COMERCIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08032"
+  },
+  "especialidad": "INDUSTRIAL,AGROPECUARIO,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08033"
+  },
+  "especialidad": "NO APLICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08034"
+  },
+  "especialidad": "OTRO,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08035"
+  },
+  "especialidad": "OTRO,NO APLICA,COMERCIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08036"
+  },
+  "especialidad": "NO APLICA,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08037"
+  },
+  "especialidad": "OTRO,COMERCIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08038"
+  },
+  "especialidad": "INDUSTRIAL,ACADÉMICA"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae08039"
+  },
+  "especialidad": "COMERCIAL"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0803a"
+  },
+  "especialidad": "AGROPECUARIO"
+},
+{
+  "_id": {
+    "$oid": "68f1debdb568a5d4fae0803b"
+  },
+  "especialidad": "INDUSTRIAL,COMERCIAL,ACADÉMICA"
+}]

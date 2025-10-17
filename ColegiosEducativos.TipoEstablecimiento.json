@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68f1e0bcb568a5d4fae080a4"
+  },
+  "tipo_Establecimiento": "INSTITUCION EDUCATIVA"
+},
+{
+  "_id": {
+    "$oid": "68f1e0bcb568a5d4fae080a5"
+  },
+  "tipo_Establecimiento": "CENTRO EDUCATIVO"
+}]

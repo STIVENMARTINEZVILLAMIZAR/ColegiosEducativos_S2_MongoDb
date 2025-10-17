@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0804c"
+  },
+  "jornadas": "MAÑANA,ÚNICA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0804d"
+  },
+  "jornadas": "COMPLETA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0804e"
+  },
+  "jornadas": "MAÑANA,NOCTURNA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0804f"
+  },
+  "jornadas": null
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08050"
+  },
+  "jornadas": "MAÑANA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08051"
+  },
+  "jornadas": "NOCTURNA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08052"
+  },
+  "jornadas": "MAÑANA,ÚNICA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08053"
+  },
+  "jornadas": "MAÑANA,ÚNICA,NOCTURNA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08054"
+  },
+  "jornadas": "COMPLETA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08055"
+  },
+  "jornadas": "MAÑANA,ÚNICA,NOCTURNA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08056"
+  },
+  "jornadas": "TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08057"
+  },
+  "jornadas": "MAÑANA,NOCTURNA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08058"
+  },
+  "jornadas": "MAÑANA,NOCTURNA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08059"
+  },
+  "jornadas": "MAÑANA,COMPLETA,NOCTURNA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805a"
+  },
+  "jornadas": "COMPLETA,ÚNICA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805b"
+  },
+  "jornadas": "COMPLETA,NOCTURNA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805c"
+  },
+  "jornadas": "MAÑANA,COMPLETA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805d"
+  },
+  "jornadas": "MAÑANA,COMPLETA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805e"
+  },
+  "jornadas": "NOCTURNA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0805f"
+  },
+  "jornadas": "MAÑANA,COMPLETA,ÚNICA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08060"
+  },
+  "jornadas": "MAÑANA,COMPLETA,ÚNICA,NOCTURNA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08061"
+  },
+  "jornadas": "ÚNICA,NOCTURNA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08062"
+  },
+  "jornadas": "NOCTURNA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08063"
+  },
+  "jornadas": "MAÑANA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08064"
+  },
+  "jornadas": "COMPLETA,NOCTURNA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08065"
+  },
+  "jornadas": "MAÑANA,COMPLETA,ÚNICA,NOCTURNA,TARDE"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08066"
+  },
+  "jornadas": "MAÑANA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08067"
+  },
+  "jornadas": "MAÑANA,NOCTURNA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08068"
+  },
+  "jornadas": "MAÑANA,ÚNICA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08069"
+  },
+  "jornadas": "ÚNICA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806a"
+  },
+  "jornadas": "MAÑANA,COMPLETA,NOCTURNA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806b"
+  },
+  "jornadas": "MAÑANA,COMPLETA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806c"
+  },
+  "jornadas": "COMPLETA,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806d"
+  },
+  "jornadas": "COMPLETA,NOCTURNA,TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806e"
+  },
+  "jornadas": "MAÑANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae0806f"
+  },
+  "jornadas": "FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08070"
+  },
+  "jornadas": "MAÑANA,COMPLETA,NOCTURNA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08071"
+  },
+  "jornadas": "COMPLETA,ÚNICA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08072"
+  },
+  "jornadas": "ÚNICA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08073"
+  },
+  "jornadas": "TARDE,FIN DE SEMANA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08074"
+  },
+  "jornadas": "MAÑANA,ÚNICA"
+},
+{
+  "_id": {
+    "$oid": "68f1df54b568a5d4fae08075"
+  },
+  "jornadas": "MAÑANA,COMPLETA,FIN DE SEMANA"
+}]
