@@ -1,0 +1,21 @@
+db.runCommand({
+    collMod: "zona",
+    validator: {
+      $jsonSchema: {
+        bsonType: "object",
+        required: ["zona"],
+        properties: {
+            zona: {
+                bsonType: ["string", "int"],
+               
+              
+            
+          },
+          zona: { bsonType: "string" }
+        }
+      }
+    },
+    validationLevel: "strict",
+    validationAction: "error"
+  })
+  

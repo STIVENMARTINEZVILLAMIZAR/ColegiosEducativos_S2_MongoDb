@@ -1,0 +1,21 @@
+db.runCommand({
+    collMod: "Especialidad",
+    validator: {
+      $jsonSchema: {
+        bsonType: "object",
+        required: ["especialidad"],
+        properties: {
+            especialidad: {
+                bsonType: ["string", "int"],
+               
+              
+            
+          },
+          especialidad: { bsonType: "string" }
+        }
+      }
+    },
+    validationLevel: "strict",
+    validationAction: "error"
+  })
+  

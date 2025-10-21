@@ -1,0 +1,23 @@
+db.runCommand({
+    collMod: "EstablecimientoEducativo",
+    validator: {
+      $jsonSchema: {
+        bsonType: "object",
+        required: ["año", "direccion", "nombreestablecimiento"],
+        properties: {
+          año: { bsonType: ["string", "int"], pattern: "^[0-9]{4}$" },
+          direccion: { bsonType: "string" },
+          telefono: { bsonType: ["string", "int"] },
+          numero_de_Sede: { bsonType: ["int", "null"] },
+          correo_Electronico: {
+            bsonType: ["string", "null"],
+            pattern: "^([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})(\\s*--\\s*[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})*$"
+          },
+          nombreestablecimiento: { bsonType: "string" }
+        }
+      }
+    },
+    validationLevel: "strict",
+    validationAction: "error"
+  })
+  

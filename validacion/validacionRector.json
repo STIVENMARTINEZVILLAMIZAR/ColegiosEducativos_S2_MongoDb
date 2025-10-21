@@ -1,0 +1,21 @@
+db.runCommand({
+    collMod: "Rector",
+    validator: {
+      $jsonSchema: {
+        bsonType: "object",
+        required: ["nombre_Rector"],
+        properties: {
+            nombre_Rector: {
+                bsonType: ["string", "int"],
+               
+              
+            
+          },
+          Rector: { bsonType: "string" }
+        }
+      }
+    },
+    validationLevel: "strict",
+    validationAction: "error"
+  })
+  

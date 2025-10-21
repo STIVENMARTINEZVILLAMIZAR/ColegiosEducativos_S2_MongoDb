@@ -1,0 +1,21 @@
+db.runCommand({
+    collMod: "Jornada",
+    validator: {
+      $jsonSchema: {
+        bsonType: "object",
+        required: ["jornadas"],
+        properties: {
+            jornadas: {
+                bsonType: ["string", "int"],
+               
+              
+            
+          },
+          Jornada: { bsonType: "string" }
+        }
+      }
+    },
+    validationLevel: "strict",
+    validationAction: "error"
+  })
+  
